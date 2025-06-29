@@ -44,7 +44,7 @@ ssh your-server "chmod +x ~/vscode-centos7-patcher.sh"
 
 **Option B: Download directly on server**
 ```bash
-wget https://raw.githubusercontent.com/your-username/vscode-centos7-remote-patcher/main/vscode-centos7-patcher.sh
+wget https://raw.githubusercontent.com/physicsuniverse/vscode-centos7-remote-patcher/main/vscode-centos7-patcher.sh
 chmod +x vscode-centos7-patcher.sh
 ```
 

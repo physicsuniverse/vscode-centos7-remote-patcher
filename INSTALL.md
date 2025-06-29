@@ -16,7 +16,7 @@ This guide provides detailed installation instructions for the VS Code Remote-SS
 
 ```bash
 # Download the patcher script
-wget https://raw.githubusercontent.com/your-username/vscode-centos7-remote-patcher/main/vscode-centos7-patcher.sh
+wget https://raw.githubusercontent.com/physicsuniverse/vscode-centos7-remote-patcher/main/vscode-centos7-patcher.sh
 
 # Make it executable
 chmod +x vscode-centos7-patcher.sh
@@ -29,7 +29,7 @@ chmod +x vscode-centos7-patcher.sh
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/vscode-centos7-remote-patcher.git
+git clone https://github.com/physicsuniverse/vscode-centos7-remote-patcher.git
 
 # Navigate to the directory
 cd vscode-centos7-remote-patcher
@@ -82,7 +82,7 @@ echo $LD_LIBRARY_PATH
 ping -c 4 8.8.8.8
 
 # Try alternative download method
-curl -O https://raw.githubusercontent.com/your-username/vscode-centos7-remote-patcher/main/vscode-centos7-patcher.sh
+curl -O https://raw.githubusercontent.com/physicsuniverse/vscode-centos7-remote-patcher/main/vscode-centos7-patcher.sh
 ```
 
 ### Permission Denied
